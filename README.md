@@ -7,7 +7,7 @@ Directions:
   2 teaspoon vanilla extract
 
 Actual Directions:
-  1: Put "sometimes.py" and "webscrape.py" in same folder
+  1: Put "sometimes.py" and "webscrape.py" in same folder 
   2: Run "sometimes.py"
   3: Splitscreen Roblox on left side
   
